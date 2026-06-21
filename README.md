@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/Website-alirezakamankesh.pythonanywhere.com-0563bb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alirezakamankesh.pythonanywhere.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alireza_Kamankesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-kamankesh)
 [![Gmail](https://img.shields.io/badge/Email-kamankeshalireza30-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamankeshalireza30@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@YourTelegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YourTelegram)
+[![Telegram](https://img.shields.io/badge/Telegram-@YourTelegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alireza_kamankesh)
 
 </div>
 
