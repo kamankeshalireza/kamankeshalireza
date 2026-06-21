@@ -116,4 +116,5 @@ https://img.shields.io/badge/Website-Visit-green?style=social&logo=google-chrome
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kamankeshalireza&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 ⭐ Feel free to star my repositories if you find them useful! ⭐
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" /></div> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" /></div>
+```
