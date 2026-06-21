@@ -68,6 +68,7 @@ https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&log
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kamankeshalireza&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180em" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamankeshalireza&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamankeshalireza&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </div>
 🏆 Featured Projects
 پروژه	توضیحات	تکنولوژی‌ها	لینک‌ها
+
 🌐 Personal Portfolio	سایت نمونه‌کار شخصی با سئو بالا (نمره ۸۲/۱۰۰)	Django, Bootstrap	Live · Code
 🤖 AI Chatbot	چت‌بات هوشمند با استفاده از OpenAI API	Python, Django, OpenAI	Code
 🛒 E-Commerce API	API فروشگاهی با احراز هویت JWT	Django REST, PostgreSQL	Code
@@ -84,8 +85,8 @@ https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&log
 📫 How to reach me: kamankeshalireza30@gmail.com
 
 ⚡ Fun fact: I can fix both your code AND your phone! 📱
-
 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamankeshalireza&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
 📬 Let's Connect!
-<div align="center"> <a href="https://www.linkedin.com/in/alireza-kamankesh"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" /></a> <a href="https://github.com/kamankeshalireza"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=social&logo=github" /></a> <a href="https://alirezakamankesh.pythonanywhere.com"><img src="https://img.shields.io/badge/Website-Visit-green?style=social&logo=google-chrome" /></a> </div><p align="center"> <img src="https://komarev.com/ghpvc/?username=kamankeshalireza&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p><div align="center">⭐ Feel free to star my repositories if you find them useful! ⭐</div><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" /> ```
+<div align="center"> <a href="https://www.linkedin.com/in/alireza-kamankesh"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" /></a> <a href="https://github.com/kamankeshalireza"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=social&logo=github" /></a> <a href="https://alirezakamankesh.pythonanywhere.com"><img src="https://img.shields.io/badge/Website-Visit-green?style=social&logo=google-chrome" /></a> </div><p align="center"> <img src="https://komarev.com/ghpvc/?username=kamankeshalireza&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p><div align="center">⭐ Feel free to star my repositories if you find them useful! ⭐</div><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
+```
