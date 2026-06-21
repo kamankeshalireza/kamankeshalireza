@@ -77,13 +77,13 @@ Project	Description	Tech	Links
 📊 Data Dashboard	Interactive dashboard with Chart.js	Django, JavaScript	Code
 </div>
 🎯 Current Focus
-🔭 I'm currently working on: Full-stack web applications with Django
+🔭 Currently working on: Full-stack web applications with Django
 
-🌱 I'm currently learning: React.js & Docker
+🌱 Currently learning: React.js & Docker
 
-👯 I'm looking to collaborate on: Open-source Django projects
+👯 Looking to collaborate on: Open-source Django projects
 
-🤔 I'm looking for help with: Cloud deployment (AWS/GCP)
+🤔 Looking for help with: Cloud deployment (AWS/GCP)
 
 💬 Ask me about: Python, Django, SEO, Web Performance
 
