@@ -37,7 +37,8 @@ class AlirezaKamankesh:
         return ["React.js ⚛️", "Docker 🐳", "Cloud Deployment ☁️"]
     
     def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing together 🚀")🛠️ Tech Stack
+        print("Thanks for visiting my profile! Let's build something amazing together 🚀")
+🛠️ Tech Stack
 <div align="center">
 Backend
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
