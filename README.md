@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kamankeshalireza/kamankeshalireza/main/assets/banner.gif" alt="Alireza Kamankesh Banner" width="100%" />
-
 # 👋 Hi, I'm Alireza Kamankesh
 
 [![Website](https://img.shields.io/badge/Website-alirezakamankesh.pythonanywhere.com-0563bb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alirezakamankesh.pythonanywhere.com)
@@ -39,8 +37,7 @@ class AlirezaKamankesh:
         return ["React.js ⚛️", "Docker 🐳", "Cloud Deployment ☁️"]
     
     def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing together 🚀")
-🛠️ Tech Stack
+        print("Thanks for visiting my profile! Let's build something amazing together 🚀")🛠️ Tech Stack
 <div align="center">
 Backend
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
@@ -67,23 +64,19 @@ https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&log
 
 </div>
 📊 GitHub Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kamankeshalireza&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180em" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamankeshalireza&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamankeshalireza&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /></div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kamankeshalireza&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180em" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamankeshalireza&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamankeshalireza&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </div>
 🏆 Featured Projects
-<div align="center">
-Project	Description	Tech	Links
-🌐 Personal Portfolio	SEO-optimized Django portfolio with 82/100 score	Django, Bootstrap, CDN	Live · Code
-🤖 AI Chatbot	Intelligent chatbot using OpenAI API	Python, Django, OpenAI	Code
-🛒 E-Commerce API	RESTful API with JWT authentication	Django REST, PostgreSQL	Code
-📊 Data Dashboard	Interactive dashboard with Chart.js	Django, JavaScript	Code
-</div>
+پروژه	توضیحات	تکنولوژی‌ها	لینک‌ها
+🌐 Personal Portfolio	سایت نمونه‌کار شخصی با سئو بالا (نمره ۸۲/۱۰۰)	Django, Bootstrap	Live · Code
+🤖 AI Chatbot	چت‌بات هوشمند با استفاده از OpenAI API	Python, Django, OpenAI	Code
+🛒 E-Commerce API	API فروشگاهی با احراز هویت JWT	Django REST, PostgreSQL	Code
+📊 Data Dashboard	داشبورد تعاملی با نمودارهای Chart.js	Django, JavaScript	Code
 🎯 Current Focus
 🔭 Currently working on: Full-stack web applications with Django
 
 🌱 Currently learning: React.js & Docker
 
 👯 Looking to collaborate on: Open-source Django projects
-
-🤔 Looking for help with: Cloud deployment (AWS/GCP)
 
 💬 Ask me about: Python, Django, SEO, Web Performance
 
@@ -93,28 +86,5 @@ Project	Description	Tech	Links
 
 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamankeshalireza&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
-🎵 Now Playing
-<div align="center">
-https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff
-
-</div>
-🏅 Achievements
-<div align="center">
-https://img.shields.io/badge/SEO_Score-82%252F100-brightgreen?style=for-the-badge
-https://img.shields.io/badge/Python-Advanced-blue?style=for-the-badge&logo=python
-https://img.shields.io/badge/Django-Expert-092E20?style=for-the-badge&logo=django
-https://img.shields.io/badge/Open_Source-Contributor-orange?style=for-the-badge&logo=github
-
-</div>
-🐍 Contribution Snake
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamankeshalireza/kamankeshalireza/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamankeshalireza/kamankeshalireza/output/github-contribution-grid-snake.svg" /> <img alt="Contribution Snake" src="https://raw.githubusercontent.com/kamankeshalireza/kamankeshalireza/output/github-contribution-grid-snake.svg" width="100%" /> </picture>
 📬 Let's Connect!
-<div align="center">
-https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin
-https://img.shields.io/badge/GitHub-Follow-black?style=social&logo=github
-https://img.shields.io/badge/Website-Visit-green?style=social&logo=google-chrome
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kamankeshalireza&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-⭐ Feel free to star my repositories if you find them useful! ⭐
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" /></div>
-```
+<div align="center"> <a href="https://www.linkedin.com/in/alireza-kamankesh"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" /></a> <a href="https://github.com/kamankeshalireza"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=social&logo=github" /></a> <a href="https://alirezakamankesh.pythonanywhere.com"><img src="https://img.shields.io/badge/Website-Visit-green?style=social&logo=google-chrome" /></a> </div><p align="center"> <img src="https://komarev.com/ghpvc/?username=kamankeshalireza&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p><div align="center">⭐ Feel free to star my repositories if you find them useful! ⭐</div><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" /> ```
